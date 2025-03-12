@@ -16,7 +16,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/francisco-silveira-73638a190/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/francisco328react?style=flat&logo=linkedin" alt="linkedin"/>
+  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 </a>
 <a href="https://instagram.com/f_silveira27" target="_blank">
  <img align="center" src="https://img.shields.io/badge/francisco328react?style=flat&logo=instagram" alt="instagram"/>
