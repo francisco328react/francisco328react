@@ -4,7 +4,7 @@
 
 - 🔥 Júnior Web Developer
 
-- 🔭 I’m currently working at [ADAF]([https://github.com/Rocketseat](https://www.adaf.am.gov.br/))
+- 🔭 I’m currently working at [ADAF](https://www.adaf.am.gov.br/)
 
 - 💬 Ask me about **JAVASCRIPT, TYPESCRIPT, HTML, CSS, REACT.JS, NEXT.js**
 
