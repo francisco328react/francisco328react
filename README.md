@@ -12,8 +12,19 @@
 
 - 👨‍💻 More at [carregando...](carregando)
 
+## Contact
 
-Here are some ideas to get you started:
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/francisco-silveira-73638a190/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/francisco328react?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/f_silveira27" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/francisco328react?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
