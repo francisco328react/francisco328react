@@ -1,4 +1,4 @@
-<img align="right"  height="350em" border-radius="8px" src="https://avatars.githubusercontent.com/u/202970174?v=4"/>
+<img align="right"  height="350em" src="https://avatars.githubusercontent.com/u/202970174?v=4"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Francisco Neto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francisco328react&color=yellow" alt="Profile views" /> </p>
 
@@ -14,12 +14,14 @@
 
 ## Contact
 
+
+
 <p align="left" padding-left="16em" style="background:yellow">
-  <a href="https://www.linkedin.com/in/francisco-silveira-73638a190/" target="_blank">
+  <a href="https://www.linkedin.com/in/francisco-silveira-73638a190/" target="_blank" margin-left="20px">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://instagram.com/f_silveira27" target="_blank">
+  <a href="https://instagram.com/f_silveira27" target="_blank" margin-left="10px">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
