@@ -17,7 +17,7 @@
 
 
 <p align="left" padding-left="16em" style="background:yellow">
-  <a href="https://www.linkedin.com/in/francisco-silveira-73638a190/" target="_blank" gap="2px">
+  <a href="https://www.linkedin.com/in/francisco-silveira-73638a190/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
