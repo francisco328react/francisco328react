@@ -28,7 +28,7 @@ I have been working in IT since 2018!
   <h3>Database</h3>
   <img align="center" height="40" width="120" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 
-  <h3>Libaries</h3>
+  <h3>libraries</h3>
   <img align="center" height="40" width="120" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
   <img align="center" height="40" width="120" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
   <img align="center" height="40" width="120" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
