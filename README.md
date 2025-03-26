@@ -5,7 +5,7 @@ I have been working in IT since 2018!
 <div>
   <h2>Professional Experience</h2>
 
-  <a href="https://www.adaf.am.gov.br/" target="_blank">ADAF</a> - Web Developer<br>
+  <a href="https://www.adaf.am.gov.br/" target="_blank">ADAF</a> - Web Developer - (At the moment)<br>
   <a href="#" target="_blank">ICTS GROUP</a> - Junior FullStack Developer<br>
   <a href="https://cultura.am.gov.br/" target="_blank">SEC-AM</a> - Web Development Internship<br>
   <a href="https://cultura.am.gov.br/" target="_blank">SEC-AM</a> - Support Internship<br>
