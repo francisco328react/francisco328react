@@ -6,10 +6,10 @@ I have been working in IT since 2018!
   <h2>Professional Experience</h2>
 
   <a href="https://www.adaf.am.gov.br/" target="_blank">ADAF</a> - Web Developer - (At the moment)<br>
-  <a href="#" target="_blank">ICTS GROUP</a> - Junior FullStack Developer<br>
-  <a href="https://cultura.am.gov.br/" target="_blank">SEC-AM</a> - Web Development Internship<br>
-  <a href="https://cultura.am.gov.br/" target="_blank">SEC-AM</a> - Support Internship<br>
-  <a href="https://www.agenciacultural.org.br/" target="_blank">AADC-AM</a> - Apprentice
+  <a href="#" target="_blank">ICTS GROUP</a> - Junior FullStack Developer (2022 - 204)<br>
+  <a href="https://cultura.am.gov.br/" target="_blank">SEC-AM</a> - Web Development Internship (2021 - 2022)<br>
+  <a href="https://cultura.am.gov.br/" target="_blank">SEC-AM</a> - Support Internship (2020 - 2021)<br>
+  <a href="https://www.agenciacultural.org.br/" target="_blank">AADC-AM</a> - Apprentice (2018 - 2020)
 </div>
 
 <div style="display: inline_block"><br>
