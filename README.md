@@ -1,4 +1,4 @@
-## Hi I'm Francicso Neto an I'm Web Developer Júnior!
+## Hi I'm Francicso Neto and I'm Web Developer Júnior!
 
 I have been working in IT since 2018!
 
