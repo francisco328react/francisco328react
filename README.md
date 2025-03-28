@@ -33,6 +33,7 @@ I have been working in IT since 2018!
   <img align="center" height="40" width="120" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
   <img align="center" height="40" width="120" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
   <img align="center" height="40" width="120" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+  <img align="center" height="40" width="120" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
   
   <h3>Education</h3>
   <img align="center" height="40" width="120" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
