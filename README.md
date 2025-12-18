@@ -5,6 +5,7 @@ I have been working in IT since 2018!
 <div>
   <h2>Professional Experience</h2>
 
+  <a href="#" target="_blank">Free-Lancer</a> - Front-End Developer - (Out/2025 - Atualmente)<br>
   <a href="https://www.adaf.am.gov.br/" target="_blank">ADAF</a> - Web Developer - (Fev/2025 - Junh/2025)<br>
   <a href="#" target="_blank">ICTS GROUP</a> - Junior FullStack Developer (Ago/2022 - Fev/2024)<br>
   <a href="https://cultura.am.gov.br/" target="_blank">SEC-AM</a> - Web Development Internship (Julh/2021 - Ago/2022)<br>
