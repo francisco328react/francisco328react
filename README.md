@@ -1,63 +1,158 @@
-## Hi I'm Francicso Neto and I'm Software Developer!
+<div align="center">
 
-I have been working in IT since 2018!
+# Francisco Silveira
 
-<div>
-  <h2>Professional Experience</h2>
+### Desenvolvedor FullStack · React · Next.js · Node.js · Java
 
-  <a href="#" target="_blank">Vanguarda Martech</a> - Assistente de Desenvolvimento Web - (Abr/2026 - Set/2026)<br>
-  <a href="#" target="_blank">Free-Lancer</a> - Front-End Developer - (Out/2025 - Atualmente)<br>
-  <a href="https://www.adaf.am.gov.br/" target="_blank">ADAF</a> - Web Developer - (Fev/2025 - Junh/2025)<br>
-  <a href="#" target="_blank">ICTS GROUP</a> - Junior FullStack Developer (Ago/2022 - Fev/2024)<br>
-  <a href="https://cultura.am.gov.br/" target="_blank">SEC-AM</a> - Web Development Internship (Julh/2021 - Ago/2022)<br>
-  <a href="https://cultura.am.gov.br/" target="_blank">SEC-AM</a> - Support Internship (Ago/2020 - Julh/2021)<br>
-  <a href="https://www.agenciacultural.org.br/" target="_blank">AADC-AM</a> - Apprentice ( Ago/2018 - Ago/2020)
+Manaus, Amazonas, Brasil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-silveira-73638a190/)
+[![E-mail](https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fseveriano56@hotmail.com)
+
 </div>
 
-<div style="display: inline_block"><br>
-  <h2>Technologies</h2>
+---
 
-  <h3>Front-End</h3>
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><br>
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+## Sobre mim
 
-  <h3>Back-End</h3>
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+Desenvolvedor de software com mais de 4 anos de experiência em desenvolvimento web e de sistemas, e na área de TI desde 2018. Construo interfaces responsivas com **React, Next.js e TypeScript** e desenvolvo back-ends com **Node.js e Java (Spring Boot)**, incluindo APIs REST com autenticação JWT, ambientes Docker, pipelines de CI/CD e bancos **PostgreSQL** e **MySQL**.
 
-  <h3>Database</h3>
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+Tenho experiência em manutenção e evolução de sistemas, integração entre aplicações, SEO e otimização de páginas, e trabalho bem em equipes ágeis com Scrum e Kanban, sempre buscando código limpo, escalável e fácil de manter.
 
-  <h3>Libraries</h3>
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white">
-  
-  <h3>Other</h3> 
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+Aberto a novas oportunidades como desenvolvedor Full Stack ou Front-End.
 
-  <h3>Testing</h3>
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
+---
 
-  <h3>Version Control</h3>
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" height="40" width="120" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-</div>
-  
-  ##
- 
-<div> 
-  <h3>Social Media</h3>
-<!--   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a href="mailto:fseveriano56@hotmail.com"><img height="40" width="120" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/francisco-silveira-73638a190/" target="_blank"><img height="40" width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Tecnologias
+
+**Front-End**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge)
+
+**Back-End e APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Bancos de dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps e versionamento**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**IA e ferramentas**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Boas práticas e metodologias:** Clean Code · Testes unitários e funcionais · Revisão de código · Performance · Acessibilidade · SEO · Scrum · Kanban · Git Flow
+
+---
+
+## Experiência profissional
+
+**Vanguarda Martech** · Assistente de Desenvolvimento de Software
+*Abr 2026 – Set 2026*
+- Apoiei o desenvolvimento e a otimização de interfaces web e contribuí com o back-end, usando HTML, CSS, JavaScript, PHP e MySQL.
+- Atuei na criação de sites e landing pages e nas integrações entre front-end e back-end, com foco em semântica, compatibilidade e SEO.
+- Usei IA (Claude Code e ChatGPT) integrada aos MCPs do Figma e do WordPress para acelerar a criação de páginas e componentes.
+
+**Freelancer** · Desenvolvedor Front-End
+*Out 2025 – Mai 2026*
+- Arquitetei e desenvolvi um sistema de gestão de estoque com front-end em React + TypeScript (HeroUI) e back-end orientado a serviços.
+- Criei APIs REST desacopladas com autenticação JWT e versionamento, integradas às interfaces via Axios.
+- Implementei pipelines de CI/CD e ambientes Docker, e validei dados com Zod.
+
+**Agência de Defesa Agropecuária e Florestal (ADAF)** · Desenvolvedor Web
+*Fev 2025 – Jul 2025*
+- Desenvolvi sistemas internos com Java e Spring Boot e interfaces com Angular e TypeScript.
+- Criei APIs REST para integração de sistemas e automação de processos governamentais.
+- Containerizei ambientes com Docker e participei de levantamentos de requisitos.
+
+**Grupo ICTS** · Analista de Desenvolvimento Júnior
+*Ago 2022 – Fev 2024*
+- Desenvolvi aplicações corporativas baseadas em microsserviços com Node.js e TypeScript.
+- Integrei sistemas externos via APIs REST e otimizei consultas SQL e relatórios.
+- Corrigi bugs reportados por usuários e pela equipe de QA e executei testes unitários e funcionais.
+
+**Secretaria de Estado de Cultura e Economia Criativa do Amazonas** · Estagiário de Desenvolvimento Web
+*Jul 2021 – Jun 2022*
+- Estruturei páginas com HTML e CSS e fiz ajustes em JavaScript, PHP e Laravel.
+- Participei do lançamento de recursos nas versões desktop e mobile e testei atualizações antes da publicação.
+
+<details>
+<summary><b>Experiência complementar em TI (suporte)</b></summary>
+
+<br>
+
+- **SEJUSC-AM** · Suporte Técnico · Out 2024 – Fev 2025
+- **Secretaria de Estado de Cultura e Economia Criativa do Amazonas** · Estagiário de TI · Ago 2020 – Jul 2021
+- **Agência Amazonense de Desenvolvimento Cultural (AADC)** · Aprendiz de TI · Ago 2018 – Ago 2020
+
+</details>
+
+---
+
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+| ------- | --------- | ----------- |
+| [Delivery Track Pro](https://github.com/francisco328react/Delivery-track-pro) | Sistema fullstack para gestão de entregas e entregadores | TypeScript |
+| [Gestão de Exames Laboratoriais](https://github.com/francisco328react/Sistema-de-Gestao-de-Exames-Laboratoriais) | Simula o funcionamento de um laboratório médico: cadastro, consulta, laudos e agendamento de exames | Backend + Frontend |
+| [Agendamentos API](https://github.com/francisco328react/agendamentos-api) | API REST de agendamentos com autenticação JWT e banco PostgreSQL em Docker | Node.js, Express, TypeScript, Prisma, PostgreSQL |
+| [Sistema de Estoque](https://github.com/francisco328react/SISTEMA-ESTOQUE-FRONTNED) | Interface web de gestão de estoque | React, TypeScript, Vite, Tailwind CSS, HeroUI, Axios, Zod |
+| [Dashboard Analytics](https://github.com/francisco328react/dashboard-analytics) | Dashboard de análise de dados com gráficos interativos | Next.js, React, TypeScript, Recharts, React Hook Form, Zod |
+| [Plataform Manager](https://github.com/francisco328react/Plataform-Manager) | Plataforma de gerenciamento com camada BFF e PostgreSQL em Docker | BFF, PostgreSQL, Docker |
+
+Veja todos os meus projetos na [aba de repositórios](https://github.com/francisco328react?tab=repositories).
+
+---
+
+## Formação
+
+**Bacharelado em Análise e Desenvolvimento de Sistemas**
+Centro Universitário Fametro · Ago 2023 – Set 2025
+- 1º lugar na feira de tecnologia da faculdade, em equipe, com o desenvolvimento de um chatbot voltado à saúde mental.
+
+## Certificações
+
+- Front-End
+- JavaScript
+- Introdução ao React.js
+- Backend com Node.js e Express, Parte 1
+- Certificado de Atividade, WEEK TEC, CEUNI Fametro
+
+## Idiomas
+
+- Português: nativo
+- Inglês: intermediário
+
+---
+
+## Contato
+
+Vamos conversar sobre projetos e oportunidades:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-silveira-73638a190/)
+[![E-mail](https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fseveriano56@hotmail.com)
