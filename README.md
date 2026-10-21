@@ -114,18 +114,48 @@ Aberto a novas oportunidades como desenvolvedor Full Stack ou Front-End.
 
 ---
 
-## Projetos em destaque
+## Projetos
 
-| Projeto | Descrição | Tecnologias |
-| ------- | --------- | ----------- |
-| [Delivery Track Pro](https://github.com/francisco328react/Delivery-track-pro) | Sistema fullstack para gestão de entregas e entregadores | TypeScript |
-| [Gestão de Exames Laboratoriais](https://github.com/francisco328react/Sistema-de-Gestao-de-Exames-Laboratoriais) | Simula o funcionamento de um laboratório médico: cadastro, consulta, laudos e agendamento de exames | Backend + Frontend |
-| [Agendamentos API](https://github.com/francisco328react/agendamentos-api) | API REST de agendamentos com autenticação JWT e banco PostgreSQL em Docker | Node.js, Express, TypeScript, Prisma, PostgreSQL |
-| [Sistema de Estoque](https://github.com/francisco328react/SISTEMA-ESTOQUE-FRONTNED) | Interface web de gestão de estoque | React, TypeScript, Vite, Tailwind CSS, HeroUI, Axios, Zod |
-| [Dashboard Analytics](https://github.com/francisco328react/dashboard-analytics) | Dashboard de análise de dados com gráficos interativos | Next.js, React, TypeScript, Recharts, React Hook Form, Zod |
-| [Plataform Manager](https://github.com/francisco328react/Plataform-Manager) | Plataforma de gerenciamento com camada BFF e PostgreSQL em Docker | BFF, PostgreSQL, Docker |
+<!-- Os percentuais são estimativas do andamento de cada projeto. Ajuste os valores conforme o progresso real. -->
+Progresso estimado de cada projeto até a conclusão (100%).
 
-Veja todos os meus projetos na [aba de repositórios](https://github.com/francisco328react?tab=repositories).
+- **[Sistema de Estoque](https://github.com/francisco328react/SISTEMA-ESTOQUE-FRONTNED)** · React, TypeScript, Vite, Tailwind CSS, HeroUI, Axios, Zod<br>
+  Interface web de gestão de estoque.<br>
+  `████████░░` **80%**
+
+- **[Gestão de Exames Laboratoriais](https://github.com/francisco328react/Sistema-de-Gestao-de-Exames-Laboratoriais)** · Backend e Frontend<br>
+  Simula o funcionamento de um laboratório médico: cadastro, consulta, laudos e agendamento de exames.<br>
+  `███████░░░` **70%**
+
+- **[Delivery Track Pro](https://github.com/francisco328react/Delivery-track-pro)** · TypeScript<br>
+  Sistema fullstack para gestão de entregas e entregadores.<br>
+  `██████░░░░` **60%**
+
+- **[Dashboard de Usuários](https://github.com/francisco328react/dashboard-usuarios)** · React, Vite, Tailwind CSS, React Router<br>
+  Dashboard para visualização e gerenciamento de usuários.<br>
+  `█████░░░░░` **50%**
+
+- **[Agendamentos API](https://github.com/francisco328react/agendamentos-api)** · Node.js, Express, TypeScript, Prisma, PostgreSQL<br>
+  API REST de agendamentos com autenticação JWT e PostgreSQL em Docker.<br>
+  `████░░░░░░` **40%**
+
+- **[Dashboard Analytics](https://github.com/francisco328react/dashboard-analytics)** · Next.js, React, TypeScript, Recharts, React Hook Form, Zod<br>
+  Dashboard de análise de dados com gráficos interativos.<br>
+  `███░░░░░░░` **30%**
+
+- **[ShoppingMarketTic](https://github.com/francisco328react/shoppingMarketTic)** · React, TypeScript, Vite, Tailwind CSS, React Router<br>
+  Aplicação web de loja virtual.<br>
+  `███░░░░░░░` **30%**
+
+- **[Plataform Manager](https://github.com/francisco328react/Plataform-Manager)** · BFF, PostgreSQL, Docker<br>
+  Plataforma de gerenciamento com camada BFF e banco PostgreSQL em Docker.<br>
+  `██░░░░░░░░` **15%**
+
+- **[Aggrandize ERP](https://github.com/francisco328react/agranddize-erp)** · pnpm workspaces, front-end web<br>
+  Sistema ERP organizado como monorepo.<br>
+  `█░░░░░░░░░` **10%**
+
+Veja todos os repositórios na [aba de repositórios](https://github.com/francisco328react?tab=repositories).
 
 ---
 
